@@ -222,7 +222,7 @@ Nicole Keshav 氏による精細な校正からも恩恵をうけた。
 ぜひとも私まで連絡してほしい。これまでの間、コメントを
 寄せてきてくれた読者の方々にも感謝している。
 
-# 6. REFERENCES
+# 6. 参考文献
 
 * [1] I.H. McLean, “Literature Review Matrix,” http://psychologyinc.blogspot.com/
 * [2] S. Peyton Jones, “Research Skills,” http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk.htm
